@@ -1,0 +1,7 @@
+# un dossier 
+.vscode/
+
+# un fichier , tout dossier confondu
+**/.DS_Store
+
+# tous les fichiers
